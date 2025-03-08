@@ -1,5 +1,6 @@
-const sumUpTo = require('./sum-up-to');
+const sumUpTo = require('/.sum-up-to');
 
-const result = sumUpTo(6);
+const result = sumUpTo(8);
 
 console.log(result);
+
